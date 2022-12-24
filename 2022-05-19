@@ -1,4 +1,5 @@
 BigScience RAIL License v1.0
+
 dated May 19, 2022
 
 This is a license (the "License") between you ("You") and the participants of BigScience ("Licensor"). Whereas the Apache 2.0 license was applicable to resources used to develop the Model, the licensing conditions have been modified for the access and distribution of the Model. This has been done to further BigScience's aims of promoting not just open-access to its artifacts, but also a responsible use of these artifacts. Therefore, this Responsible AI License (RAIL)[1] aims at having an open and permissive character while striving for responsible use of the Model.
@@ -84,6 +85,7 @@ Section IV: OTHER PROVISIONS
 END OF TERMS AND CONDITIONS
 
 Attachment A
+
 Use Restrictions
 
 You agree not to use the Model or Derivatives of the Model:
